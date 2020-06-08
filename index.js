@@ -1,6 +1,6 @@
 
-class Clock {
+class Converter {
 //type code here
 }
 
-module.exports = Clock
+module.exports = Converter
